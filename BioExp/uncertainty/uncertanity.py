@@ -14,7 +14,7 @@ from imgaug import parameters as iap
 import matplotlib.gridspec as gridspec
 
 from ..helpers.losses import *
-from .helpers.utils import load_vol_brats
+from ..helpers.utils import load_vol_brats
 # from evaluation_metrics import *
 
 
